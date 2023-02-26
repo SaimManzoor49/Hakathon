@@ -1,0 +1,14 @@
+@import 'react-toastify/dist/ReactToastify.css';
+@import './sass/bootstrap';
+@import './sass/header';
+@import './sass/footer';
+@import './sass/animatedBg';
+@import './sass/loading';
+@import './sass/login';
+
+*{
+    font-family: 'Kanit', sans-serif;
+}
+.hover-text-white:hover{
+    color: white !important;
+}
